@@ -8,3 +8,12 @@ with proxy support (Downloads all the files in current directory where the scrip
 ## Entropy
 
 Small snipplet with some functions for measuring the entropy of data
+
+## Html generator
+
+Simple generator of html from python
+
+## Cache
+
+Cache decorator
+
